@@ -1,5 +1,3 @@
-![ace6d1028eb3f39fb6844e02e04feb24](https://github.com/Erionoir/Erionoir/assets/153340445/5ee8be2a-a1a2-4e91-a316-89c4bbda7a2e)
-
 Yow, Gelo here.
 
 A man who entered the world of programming just to spite someone, but now enjoys it.
